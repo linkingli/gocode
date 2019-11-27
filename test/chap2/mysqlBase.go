@@ -8,6 +8,7 @@ import (
 )
 /**
 	sql 原始连接
+	参考文档:https://blog.csdn.net/pangudashu/article/details/54291558
  */
 
 //数据库连接信息
