@@ -31,6 +31,7 @@ func useArray() {
 
 	arrayList2[3]="wsa"
 
+	
 	//使用指针的数组
 	arrayList3 := [5]*int{0: new(int), 1: new(int)}
 	*arrayList3[0] = 10
